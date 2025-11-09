@@ -1,0 +1,10 @@
+pinecone-client
+langchain
+langchain-openai
+langchain-pinecone
+langchain-community
+langchain-text-splitters
+pypdf
+langchain_groq
+docx2txt
+streamlit
